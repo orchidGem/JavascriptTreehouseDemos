@@ -1,0 +1,27 @@
+// begin your array of objects
+[
+	{
+		"name" : "Laura",
+		"inoffice" : "in"
+	},
+	{
+		"name" : "Wilmer",
+		"inoffice" : "in"
+	},
+	{
+		"name" : "Kathryn",
+		"inoffice" : "out"
+	},
+	{
+		"name" : "Darren",
+		"inoffice" : "out"
+	},
+	{
+		"name" : "Jake",
+		"inoffice" : "in"
+	},
+	{
+		"name" : "Anand",
+		"inoffice" : "out"
+	},
+]
