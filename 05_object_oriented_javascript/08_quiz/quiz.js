@@ -1,14 +1,9 @@
 // A quiz is a collection of questions
-function Quiz() {
-	this.questions = [];
+function Quiz(questions) {
+	this.questions = questions;
 	this.questionIndex = 0;
 	this.score = 0;
 	this.container;
-}
-
-// Add question to Quiz
-Quiz.prototype.add = function(question) {
-	this.questions.push(question);
 }
 
 // Submit Answer
